@@ -1,8 +1,10 @@
 package testcases;
 
-public class Testcasepsb {
+import org.testng.annotations.Test;
 
-	public Testcasepsb() {
+public class Testcasepsb {
+@Test
+	public void Testcasepsb() {
 		// TODO Auto-generated constructor stub
 	}
 
